@@ -1,4 +1,4 @@
 build:
   id:1
-  name:test
-  random:1234
+  name:default-config
+  version:101010
